@@ -12,3 +12,8 @@ Note: Export COMPOSIO_API_KEY in your shell
 - Enter prompts at "You: ".
 - Type "exit" to quit.
 - Conversation history is maintained.
+
+## References
+- [Composio Website](https://composio.dev/)
+- [Composio Documentation](https://docs.composio.dev/docs/welcome)
+- [Composio SDK](https://github.com/composiohq/composio)
